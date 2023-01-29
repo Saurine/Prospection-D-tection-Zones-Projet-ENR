@@ -17,11 +17,12 @@ es potentielles au développement de projets éoliens ET solaires
 solaire, utilisant la cartographie
 
 - Mettre en place un outil de communication efficace présentant :
-o La marque/ l’entreprise du groupe projet
-o Les grandes étapes d’un projet Eolien OU Solaire (en fonction de l’énergie choisie)
-o Les enjeux du territoire (zones définies en début de projet en cadrage)
-o Les retombées ,directes et indirectes, pour le territoire
-o Tout autre information qui semble importante à présenter par le groupe projet
+
+\La marque/ l’entreprise du groupe projet
+\Les grandes étapes d’un projet Eolien OU Solaire (en fonction de l’énergie choisie)
+\Les enjeux du territoire (zones définies en début de projet en cadrage)
+\Les retombées ,directes et indirectes, pour le territoire
+\Tout autre information qui semble importante à présenter par le groupe projet
 
 - Communiquer ces enjeux de manière adaptée aux interlocuteurs du projet
 
