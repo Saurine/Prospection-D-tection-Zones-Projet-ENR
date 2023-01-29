@@ -1,9 +1,9 @@
 import pandas as pd
-from pandas import DataFrame
 
 
 def first_function(stringy: object) -> object:
     """
+    :rtype: object
     :param stringy:
     :return: data
     """
